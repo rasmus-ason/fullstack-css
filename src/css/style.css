@@ -68,8 +68,13 @@
 .content-table {
     margin-bottom: 0;
     padding-left: 10rem; padding-right: 10rem;
-    padding-top: 8rem; padding-bottom: 8rem;   
+    padding-top: 8rem; padding-bottom: 8rem;  
 }
+
+.content-table table {
+    border: solid 4px #80cbc4; 
+}
+
 
 .content-table h3, .content-form h3 {
     margin-bottom: 2rem;
